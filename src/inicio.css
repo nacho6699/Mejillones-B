@@ -1,0 +1,10 @@
+.section{
+    width: 100%;
+    display: grid;
+    gap: 10px;
+}
+.title-activity{
+    color: var(--color-second);
+    text-align: center;
+
+}
