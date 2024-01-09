@@ -13,7 +13,7 @@
 }
 .card{
     width: 4.8rem;
-    border-radius: 2rem;
+    border-radius: 1rem;
     background-size:cover;
     cursor: pointer;
     overflow: hidden;
@@ -35,12 +35,12 @@
     background:var(--color-second) ;
     color: white;
     border-radius: 50%;
-    width: 3.2rem;
-    height: 3.2rem;
+    width: 2rem;
+    height: 2rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 0.8rem;
+    margin: 1.4rem;
 }
 .card > .row > .description{
     display: flex;
